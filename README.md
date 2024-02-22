@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 This is Naveen here 👋
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+<br><br>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
@@ -19,11 +21,11 @@ This is Naveen here 👋
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 </div>
 
-I'm current working on something interesting
-I'm current learning SvelteKit and tRPC 💻
-Pronouns: He
-I'm looking to collaborate with people with good tech ideas 🔥
-Ask me about tech, we'll be friends in no time
+I'm currently working on something interesting <br />
+I'm currently learning SvelteKit and tRPC 💻 <br />
+Pronouns: He <br />
+I'm looking to collaborate with people with good tech ideas 🔥 <br />
+Ask me about tech, we'll be friends in no time <br />
 
 Reach me here: naveenthatsmyname5@gmail.com
 
